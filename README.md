@@ -1,6 +1,6 @@
 # biografia-
 <h1 align="center">Olá Eu sou Ana Clara</h1>
-<h3 align="center">Eu estou cursando programação para mobile, por um projeto da Edutechh</h3>
+<h3 align="center">Eu estou cursando programação para mobile, por um projeto da Edutech</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
